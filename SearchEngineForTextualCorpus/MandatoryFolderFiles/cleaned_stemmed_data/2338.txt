@@ -1,0 +1,1 @@
+a start method for solv nonlinear volterra integr equat ofthe second kind a fourth order start method is givenfor volterra integr equat of the second kind and numerexampl ar present cacm june 1972 iguchi k algorithm volterraintegr equat start method 5 18 ca720607 jb januari 301978 4 17 pm 2338 5 2338 2338 5 23382338 5 2338 

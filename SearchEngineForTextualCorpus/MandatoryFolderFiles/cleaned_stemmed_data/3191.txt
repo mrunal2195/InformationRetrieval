@@ -1,0 +1,1 @@
+gener permut by nest cycl the purpos of thi letteris two fold first to give due credit to thetompkin paig algorithm and second to clarifi a comment byhill cr review 13891 on program for permut cacm june1968 langdon glen g permut 5 39 ca680617 es march18 1982 10 00 am 2189 5 3191 3191 53191 3191 5 3191 3191 5 3191 1594 6 31912087 6 3191 3191 6 3191 521 6 3191 

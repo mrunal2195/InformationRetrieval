@@ -1,0 +1,1 @@
+implement phrase structur product in pl i a method isdescrib for implement the product of a context free phrasestructur grammar in a pl i procedur whose structur andstatement parallel the structur and notat of the grammar cacmjuli 1967 irwin l ca670704 jb februari 28 1978 901 am 1569 5 1569 1569 5 1569 1569 51569 

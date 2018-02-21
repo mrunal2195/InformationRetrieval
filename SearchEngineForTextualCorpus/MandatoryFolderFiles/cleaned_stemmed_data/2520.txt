@@ -1,0 +1,1 @@
+greatest common divisor of n integ and multipli algorithm c386cacm april 1973 ragland l c good d i proofof algorithm greatest common divisor euclidean algorithm induct assert method3 15 4 42 5 10 5 24 ca730408 jbjanuari 24 1978 9 27 am 2520 5 2520 25205 2520 2520 5 2520 

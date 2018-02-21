@@ -1,0 +1,1 @@
+an iter method for fit the logist curv an itermethod is given for find a logist curv of bestleast squar fit to a set of two dimension pointcacm march 1959 howel j ca590302 jb march 22 19788 04 pm 75 5 94 94 5 94 945 94 94 5 94 15 6 94 94 694 

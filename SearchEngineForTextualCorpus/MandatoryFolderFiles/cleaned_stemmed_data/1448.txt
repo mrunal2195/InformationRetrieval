@@ -1,0 +1,1 @@
+abscissa and weight for romberg quadratur algorithm 281 d1 cacmapril 1966 welsch j h ca660403c jb march 23 19787 17 pm 1448 5 1448 1448 5 1448 14485 1448 

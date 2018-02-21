@@ -1,0 +1,1 @@
+a stop criterion for the newton raphson method in implicitmultistep integr algorithm for nonlinear system of ordinari differenti equatcacm septemb 1971 linig w ordinari differenti equat linear multistepformula newton raphson method stop criterion 5 11 5 155 17 ca710906 jb februari 2 1978 2 13 pm2158 5 2158 2158 5 2158 2158 5 2158 

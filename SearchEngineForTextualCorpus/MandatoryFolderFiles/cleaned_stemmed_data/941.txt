@@ -1,0 +1,1 @@
+a recurs program for the gener n dimension integr agener program is outlin for n dimension integr with variabllimit the program is of a recurs natur and ussimpson s rule combin with repeat bisect to attain therequir accuraci it wa develop in the ferranti mercuri autocodscheme cacm januari 1963 cadwel j h ca630107 jb march14 1978 2 43 pm 941 5 941 941 5941 941 5 941 

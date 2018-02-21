@@ -1,0 +1,1 @@
+solut of linear program in 0 1 variabl by implicitenumer algorithm 341 h cacm april 1970 guignard m mlinear program zero on variabl partial enumer 5 41 ca700411jb februari 13 1978 2 43 pm 2073 5 20732073 5 2073 2073 5 2073 
